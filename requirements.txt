@@ -1,0 +1,4 @@
+pillow
+streamlit
+piexif
+suntime
