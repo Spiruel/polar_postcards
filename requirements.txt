@@ -2,3 +2,4 @@ pillow
 streamlit
 piexif
 suntime
+boto3
